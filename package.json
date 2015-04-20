@@ -1,0 +1,27 @@
+{
+  "name": "browser-node-slack",
+  "version": "0.0.1",
+  "description": "Send and receive Slack Webhooks easily! With Browserify!",
+  "main": "slack.js",
+  "dependencies": {
+    "browser-request": "^0.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:xoxco/node-slack.git"
+  },
+  "author": {
+    "name": "Richard Littauer",
+    "email": "richard.littauer@gmail.com"
+  },
+  "license": "MIT",
+  "readmeFilename": "readme.md",
+  "bugs": {
+    "url": "https://github.com/RichardLitt/browser-node-slack/issues"
+  },
+  "homepage": "https://github.com/RichardLitt/browser-node-slack"
+}
