@@ -1,9 +1,13 @@
 {
   "name": "browser-node-slack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Send and receive Slack Webhooks easily! With Browserify!",
   "main": "slack.js",
-  "keywords": ["slack", "browserify", "webhooks"],
+  "keywords": [
+    "slack",
+    "browserify",
+    "webhooks"
+  ],
   "dependencies": {
     "browser-request": "^0.3.3"
   },
