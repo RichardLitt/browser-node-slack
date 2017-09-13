@@ -1,5 +1,7 @@
 # node-slack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/browser-node-slack.svg)](https://greenkeeper.io/)
+
 A node module for sending and receiving messages with Slack via webhooks that works with browserify.
 
 [Slack](https://slack.com/) is a messaging platform that is easy to integrate with.
